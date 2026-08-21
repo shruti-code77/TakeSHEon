@@ -1,0 +1,6 @@
+{
+  "name": "TechSHEon - Community Ideas. Real Business Growth.",
+  "description": "Platform connecting women running small and micro-businesses with community advisors, measuring idea implementation impact and tracking real growth with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
